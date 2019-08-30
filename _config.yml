@@ -9,7 +9,7 @@ blog:
   #description                  : >
 
 # Layout configuration
-  logo_path                  : "uploads/group.jpg" # path to logo file
+  logo_path                  : "" # path to logo file
   search_path                : "quantitativesemanticslab.github.io" # needed for searchbox in archive page
   hero_layout                : false # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image

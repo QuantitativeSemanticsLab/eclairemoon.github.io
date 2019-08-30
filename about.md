@@ -8,6 +8,9 @@ published: true
 
 <div class="page" markdown="1">
 
+<center>
+  <img src="uploads/group.jpg" srcset="uploads/profile.png" width=300 height=300 />
+</center>
 
 ## About 
 

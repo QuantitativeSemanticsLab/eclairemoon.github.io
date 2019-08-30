@@ -1,16 +1,16 @@
 # Base blog settings
 baseurl                      : "" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "http://eclairemoon.github.io" # the base hostname & protocol for your site
+url                          : "http://quantitativesemanticslab.github.io" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : Ellise Moon
+  title                      : Quantitative Semantics Lab
   #description                  : >
 
 # Layout configuration
-  logo_path                  : "uploads/profile.jpg" # path to logo file
-  search_path                : "eclairemoon.github.io" # needed for searchbox in archive page
+  logo_path                  : "uploads/group.jpg" # path to logo file
+  search_path                : "quantitativesemanticslab.github.io" # needed for searchbox in archive page
   hero_layout                : false # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
   excerpts                   : false # show excerpts instead of full post content on blog page
@@ -24,13 +24,12 @@ blog:
 
 # Author info
 author:
-  fullname                  : Ellise Moon
+  fullname                  : QSL
   themeswitcher             : false
   rss                       : false # generate RSS feed and show it's icon in header
-  mail                      : ellise.moon@rochester.edu # change to your e-mail address
-  twitter                   : eclairemoon
-  github                    : eclairemoon
-  #memes                     : yeet
+  #mail                      : 
+  #twitter                   : eclairemoon
+  github                    : QuantitativeSemanticsLab
   #youtube                   : youtube-user-name
   #stackoverflow             : stackoverflow-user-name
   #disqus                    : dactl # your disqus site name

@@ -9,16 +9,16 @@ Object.entries = (object) => Object.keys(object).map(
 const isObject = (obj) => obj === Object(obj)
 
 const LightTheme = {
-  '--bg-color': '#f2f2f2',
-  '--text-color': '#686868',
-  '--text-color-light': '#888888',
-  '--link-color': '#0d47a1',
+  '--bg-color': '#e3e4e6',
+  '--text-color': '#313438',
+  '--text-color-light': '#7aa0c2',
+  '--link-color': '#7aa0c2',
   '--metadata-color': '#888888',
-  '--post-title': '#686868',
-  '--code-bg-color': '#f2f2f2',
-  '--code-border': '#f5f5f5',
-  '--table-border-color': '#e5e5e5',
-  '--table-header-color': '#fefefe',
+  '--post-title': '#7aa0c2',
+  '--code-bg-color': '#bdbebf',
+  '--code-border': '#7aa0c2',
+  '--table-border-color': '#7aa0c2',
+  '--table-header-color': '#7aa0c2',
   '--shadow-color': 'rgba(0, 0, 0, 0.1)',
   '--invert-logo-color': 'invert(0)',
   themeName: 'LightTheme'

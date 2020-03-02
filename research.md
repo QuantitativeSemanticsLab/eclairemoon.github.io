@@ -10,6 +10,5 @@ published: true
 
 ## Research 
 
-Current projects coming soon
-
+Work at the Quantitative Semantics Lab develops tools and methodologies to study the relation between grammar and meaning across large amounts of language data. Our goal is to <it>measure</it> contrasts in semantic meaning through quantitative methods applied to (annotated) corpus data, building on a range of domain-specific data processing and annotation methods from NLP as well as more general statistical and machine learning methodologies. The core research area of interest is nominal semantics, including the syntax and semantics of nominalizations, abstract nouns (such as 'justice' and 'information') and the count/mass distinction.
 </div>
